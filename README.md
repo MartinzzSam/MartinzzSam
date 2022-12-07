@@ -8,6 +8,6 @@ class AboutMe (
   
   val role = "Android Developer",
   
-  val year_of_experience = 3
+  val years_of_experience = 3
   
   )
