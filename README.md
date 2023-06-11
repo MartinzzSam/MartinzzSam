@@ -1,4 +1,4 @@
-class AboutMe (
+data class AboutMe (
 
   val first_name = "Ahmed",
   
