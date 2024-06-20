@@ -4,7 +4,7 @@ data class AboutMe (
   
   val last_name = "Ali",
   
-  vla linkedin = "https://www.linkedin.com/in/ahmed-ali-6807a8219/",
+  val linkedin = "https://www.linkedin.com/in/ahmed-ali-6807a8219/",
   
   val role = "Android Developer",
   
